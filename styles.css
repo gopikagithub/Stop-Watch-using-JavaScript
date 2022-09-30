@@ -1,0 +1,25 @@
+.bodyContainer{
+    width: 450px;
+    height: 200px;
+    margin: auto;
+    margin-top: 20%;
+    background-color: rgb(214, 133, 133);
+    text-align: center;
+    padding: 40px;
+    border-radius: 25px;
+    border:3px dashed brown;
+
+}
+.timeDisplay{
+    font-size: 70px;
+    color: rgb(87, 14, 14);
+    margin: 20px;
+}
+.button{
+    background-color: rgb(172, 69, 69);
+    width: 120px;
+    
+    margin-right: 20px;
+    border-radius: 35px;
+    font: 24px bolder;
+}
