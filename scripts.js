@@ -8,7 +8,7 @@ let paused=true;
 let intervalId;
 let hrs=0;
 let mins=0;
-let secs=50;
+let secs=0;
 
 
 startButton.addEventListener("click",()=>{
